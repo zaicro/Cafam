@@ -16,6 +16,9 @@
 
 > Posteriormente inicié la Parte 2, enfocándome inicialmente en el diseño de arquitectura y las preguntas de criterio técnico.
 
+> Retome el Ejercicio 1, aqui me apoye de IA para generar los artefactos necesarios, se realiza una prueba de escritorio y una vez que todo esta funcionando, generamos la PR con main.
+
+> En el ejercicio 2 se incluyen los cambios y se carga nuevamente, y se prueba la ejecucion del yml, esta falla por un problema de seguridad en Run Trivy.
 ---
 
 ## 2. Ejercicio 3: Arquitectura de Microservicios
@@ -53,7 +56,7 @@ graph TD
 
 > Processing API será desplegada dentro de una red privada y no tendrá un endpoint público.
 
-> La tas estaria dentro del sistema, por lo cual no seria accesible desde el exterior.
+> La task estaria dentro del sistema, por lo cual no seria accesible desde el exterior.
 
 ### D. Infraestructura Cloud / Kubernetes
 

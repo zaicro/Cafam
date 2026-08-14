@@ -2,7 +2,7 @@
 
 **Nombre del Candidato:** Andres Guillermo Martinez Sierra
 **Fecha:** 13/08/2026
-**Enlace al Video de Sustentación (Loom/Drive):** [Poner Enlace Aquí]  
+**Enlace al Video de Sustentación (Loom/Drive):** [\[Poner Enlace Aquí\]  ](https://1drv.ms/v/c/87af58f5d0164392/IQCsbGmDRb8mSIPSkZQU8yFSAQjnbbOhy4aJuHn_4IdtijQ?e=24MR3k)
 
 ---
 
